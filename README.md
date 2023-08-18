@@ -1,2 +1,1 @@
-
-![Add a heading](https://github.com/emilysmendes/emilysmendes/assets/134442427/0ddd8953-71fb-4809-ba50-61c01e1c56d0)
+![Hello, I'm Emily Full Stack Web Developer](https://github.com/emilysmendes/emilysmendes/assets/134442427/e19e2494-1cc6-42d1-8817-07b6afef1d72)
