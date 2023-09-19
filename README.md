@@ -15,8 +15,6 @@
   </a>
   <a href="mailto:emilysvetcos@gmail.com">
     <img width="30" height="30" src="https://react.email/static/icons/gmail.svg" alt="GMAIL icon"/>
-  <a href="https://wakatime.com/@88f84576-c4b7-4f8a-954b-ef0a2a0caba6">
-    <img width="40" height="40" src="https://media.licdn.com/dms/image/C560BAQH9G8dl7T2kyA/company-logo_200_200/0/1590287883124?e=2147483647&v=beta&t=HPzUJ6E__Ul5hLTuzJglwOCXdzohzIQLxtMChbr9QU0" alt="WakaTime logo"/>
 
 </div>
 
